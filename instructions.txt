@@ -1,2 +1,6 @@
 how to make guacamole
+<<<<<<< HEAD
 add cilantro on top
+add cilantro 
+but make sure to add cilantro last 
+
